@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1756293565 source:c:\users\mohamed\desktop\mohamed\my programming projects\course 5\problem #23\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
